@@ -10,7 +10,7 @@ A public repository for resources and information about **BearConnect**, the all
 
 This repository serves as a hub for the BearConnect community. To learn more about our features, pricing, and how our platform can revolutionize your team's workflow, please visit our official website.
 
-**[Visit the BearConnect Website](https://bearconnect.io/)**
+**[Visit the Bearconnect Website](https://bearconnect.io/)**
 
 ---
 
