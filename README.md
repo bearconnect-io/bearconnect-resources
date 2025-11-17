@@ -5,8 +5,6 @@ Website:              https://bearconnect.io
 Business Model:       SaaS (Subscription Model)
 Owner:                Mona Juneja
 Business Email:       support@bearconnect.io
-Established:          January 2025
-Company Type:         LLC
 Location:             75 E 3rd Street Suite 7, Sheridan, Wyoming, USA 82801
 Phone:                +1 206 571-6822
 Business Hours:       9 AM - 5 PM (Monday - Friday)
@@ -403,12 +401,11 @@ SOCIAL MEDIA & RESOURCES
 Official Links:
 --------------------------------------------------------------------------------
 • Website: https://bearconnect.io
-• Blog: https://blog.bearconnect.io
+• Blog: https://bearconnect.io/blog
 • LinkedIn: https://www.linkedin.com/company/bearconnect
 • Instagram: https://www.instagram.com/bearconnect.io
 • YouTube: https://www.youtube.com/Bearconnect
 • Support Email: support@bearconnect.io
-• Marketing Email: bearconnectmarketing@gmail.com
 
 
 FREQUENTLY ASKED QUESTIONS
